@@ -1,1 +1,1 @@
-worker: cd bot && python mafia_bot.py
+worker: PYTHONPATH=bot python bot/mafia_bot.py
